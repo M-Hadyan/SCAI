@@ -1,0 +1,44 @@
+{
+    "welcome": "Welcome",
+    "statistics": "Statistics",
+    "day": "Day",
+    "week": "Week",
+    "month": "Month",
+    "newTransations":"More than 500+ new orders",
+    "dashboard": "Dashboard",
+    "trnsations": "Trnsations",
+  "payments": "Payments",
+  "bills": "Bills",
+  "expenses": "Expenses",
+  "expensesMessage": "Notes: All expenses have been disbursed within 30 days",
+  "cards": "Cards", 
+  "newCard": "New Card", 
+  "madaClassic": "Mada Classic", 
+  "madaDigital": "Mada Digital",
+  "newSubscription": "New Subscription", 
+  "setupYourCardDetails": "Setup Your Card Details", 
+  "SetupYourCardInfo": "Setup Your Card Information", 
+  "nameOnCard": "Name On Card", 
+  "password": "Password", 
+  "confirmPassword": "Confirm Password", 
+  "billingDetails": "Billing Details", 
+  "locateYourBillAddress": "Locate Your Bill Address", 
+  "setupYourCurrentLocation": "Setup Your Current Location", 
+  "addressLine1": "Address Line 1", 
+  "addressLine2": "Address Line 2", 
+  "postcode": "Postcode", 
+  "completed": "Completed!", 
+  "state": "State", 
+  "country": "Country", 
+  "reviewYourDetailsAndSubmit": "Review Your Details And Submit", 
+  "accountDetails": "Account Details", 
+  "submit": "Submit", 
+  "back": "Back",
+  "nextStep": "Next Step",
+
+  "dashboard1": {
+    "generateReport": "Generate Report"  
+  }
+
+
+}
